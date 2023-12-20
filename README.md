@@ -172,3 +172,5 @@ yarn test
 
 - Owner control and contract upgradeability risks
     - The owner has control over certain parameters and can upgrade certain contracts which can cause issues if set or performed incorrectly
+
+- Any additional issues detected by Aderyn outlined [here](https://github.com/Cyfrin/2023-12-stake-link/issues/1).
