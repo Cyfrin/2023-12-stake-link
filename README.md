@@ -2,7 +2,7 @@
 
 <!-- <br/>
 <p align="center">
-<img src="https://res-console.cloudinary.com/droqoz7lg/thumbnails/v1/image/upload/v1703097896/Y29tcGFueS9jN3B3enBmaHR6bHQxN2d3ZXZlbw==/grid_landscape" width="500" alt="stake.link">
+<img src="https://res-console.cloudinary.com/droqoz7lg/thumbnails/v1/image/upload/v1703098295/Y29tcGFueS9tdThtbGJidG51aW9rdnNoenZ0cQ==/grid_landscape" width="500" alt="stake.link">
 </p>
 <br/> --> 
 
