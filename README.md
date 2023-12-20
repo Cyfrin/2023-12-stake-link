@@ -2,7 +2,7 @@
 
 <!-- <br/>
 <p align="center">
-<img src="https://res.cloudinary.com/droqoz7lg/image/upload/v1703097896/company/c7pwzpfhtzlt17gweveo.svg" width="500" alt="stake.link">
+<img src="https://asset.cloudinary.com/droqoz7lg/4d6f6a3f25313b5e4e0dc00963df44fc" width="500" alt="stake.link">
 </p>
 <br/> --> 
 
