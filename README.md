@@ -2,7 +2,7 @@
 
 <!-- <br/>
 <p align="center">
-<img src="./logo.png" width="500" alt="Ditto">
+<img src="[./logo.png](https://res.cloudinary.com/droqoz7lg/image/upload/q_90/dpr_2.0/c_fill,g_auto,h_320,w_320/f_auto/v1/company/c7pwzpfhtzlt17gweveo?_a=BATAUVAA0)" width="500" alt="stake.link">
 </p>
 <br/> --> 
 
@@ -13,8 +13,8 @@
   - HM Awards: 
   - Low Awards: 
   - GAS, Informational, or QAs Awards:
-- Starts 
-- Ends 
+- Starts - Friday December 22, 2023 Noon UTC
+- Ends - Friday January 12, 2024 Noon UTC
 
 ## Stats **THESE WILL BE PREPENDED TO THE SUBMITTED README BY THE CYFRIN TEAM**
 - nSLOC: 1414
