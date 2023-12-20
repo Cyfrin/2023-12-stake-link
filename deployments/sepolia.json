@@ -1,0 +1,34 @@
+{
+  "SDLToken": {
+    "address": "0xD668b598e7F9d72b0D1B081c928eC8553503a188",
+    "artifact": "StakingAllowance"
+  },
+  "LinearBoostController": {
+    "address": "0xCaEC3A1abD45Df880fD1B3252bdF29e5c4EE9eB7",
+    "artifact": "LinearBoostController"
+  },
+  "SDLPool": {
+    "address": "0x31Fa516c6A602A1f7Fc4Ed0070Ee7Aea397cc4E7",
+    "artifact": "SDLPool"
+  },
+  "LINKToken": {
+    "address": "0x34e754e54b286250fea278AeC99033Ae9e509e25",
+    "artifact": "ERC677"
+  },
+  "LINK_StakingPool": {
+    "address": "0x71EC4a95e3C26280d7FFc52c4BfEc538325b676b",
+    "artifact": "StakingPool"
+  },
+  "LINK_PriorityPool": {
+    "address": "0x6171927d7d982513af122C4Bc1C9d9E873e62273",
+    "artifact": "PriorityPool"
+  },
+  "LINK_WrappedSDToken": {
+    "address": "0xE7a999ae5670B5b2B725A55d4b0E686B9e190826",
+    "artifact": "WrappedSDToken"
+  },
+  "stLINK_SDLRewardsPool": {
+    "address": "0x0415A4374d1f16B79b3604DE13D0f15e58C0539d",
+    "artifact": "RewardsPoolWSD"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "LPLToken": {
+    "address": "0x828CAe966B8Bf7c97B2e8189aa9A3c653ED72899",
+    "artifact": "ERC677"
+  },
+  "LINKToken": {
+    "address": "0xCA2AaEE5c36BDd79CaC5493343878C30e38e9da6",
+    "artifact": "ERC677"
+  },
+  "PoolOwnersV1": {
+    "address": "0x90012Cc1aB4D3234b3238A4300eE611a6a2D76C5",
+    "artifact": "PoolOwnersV1"
+  },
+  "LINK_OwnersRewardsPoolV1": {
+    "address": "0xA395B90ccb0d4520b634B64Caeea9320DF276942",
+    "artifact": "OwnersRewardsPoolV1"
+  },
+  "PoolAllowanceV1": {
+    "address": "0x5969a3D50b4cAd7145Bf3e8704323CdA165de497",
+    "artifact": "PoolAllowanceV1"
+  },
+  "Multicall3": {
+    "address": "0xa5da925C02f03cc515d648b3D8441fB53DEA0a74",
+    "artifact": "Multicall3"
+  },
+  "stETHToken": {
+    "address": "0xC1C9f268651a394AFbc021cc722175a84B8ae469",
+    "artifact": "ERC20"
+  },
+  "rETHToken": {
+    "address": "0x8E555709107aA344E493AEA521B2e6C0b245fe16",
+    "artifact": "ERC20"
+  },
+  "SDLToken": {
+    "address": "0x0a76496Bf29F130D9F2aA5eBc9f77A9B48850677",
+    "artifact": "StakingAllowance"
+  },
+  "LPLMigration": {
+    "address": "0x4B929768c24A03f231776271c1AFb38cb5825992",
+    "artifact": "LPLMigration"
+  },
+  "DelegatorPool": {
+    "address": "0xEA3ABd99869EdF0B8B929aCb5148472e188e84e9",
+    "artifact": "DelegatorPool"
+  },
+  "PoolRouter": {
+    "address": "0x7eFcD4B32052d868611eEaB8E77b1d5fCec41880",
+    "artifact": "PoolRouter"
+  },
+  "LINK_StakingPool": {
+    "address": "0xf189d68db38be09EEC9c6ab4bE36D72Ce49fab6a",
+    "artifact": "StakingPool"
+  },
+  "LINK_WrappedSDToken": {
+    "address": "0x21B11E4309b1f56701A14EdC8abcFcD478Faa704",
+    "artifact": "WrappedSDToken"
+  },
+  "stLINK_DelegatorRewardsPool": {
+    "address": "0x52C335Bf89EfAf84A4E80352022D39b465147D07",
+    "artifact": "RewardsPoolWSD"
+  },
+  "GovernanceController": {
+    "address": "0xc2053111870caD9fC5473A43C9b9C4b6dF4E459A",
+    "artifact": "GovernanceController"
+  },
+  "MerkleDistributor": {
+    "address": "0xC205E8Fe926Cc8f6dDF5F23A687984E8FedFbf01",
+    "artifact": "MerkleDistributor"
+  },
+  "ixETH_WrappedSDToken": {
+    "address": "0xfF15126089cb86Ad8C316648a1B7cEE5ce83a0Bd",
+    "artifact": "WrappedSDToken"
+  },
+  "ETH_LiquidSDIndexPool": {
+    "address": "0xe4415600d458AB82853aEB0FE4ac0d0a9285Cb1A",
+    "artifact": "LiquidSDIndexPool"
+  },
+  "StakedotlinkCouncil": {
+    "address": "0xBBa6B47203FcaF5e24A789Eb0c7804505B2DeE58",
+    "artifact": "StakedotlinkCouncil"
+  },
+  "cbETHToken": {
+    "address": "0x3467A653237a56E8c20d730cdb5a8FB20034E7b7",
+    "artifact": "ERC20"
+  },
+  "sfrxETHToken": {
+    "address": "0x57c13De15Af883052b09f02ffF76E12d56dEC673",
+    "artifact": "ERC20"
+  }
+}
