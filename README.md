@@ -7,20 +7,19 @@
 <br/>
 
 
-## Contest Details **THESE WILL BE PREPENDED TO THE SUBMITTED README BY THE CYFRIN TEAM**
+## Contest Details
 
 - Total Prize Pool: 
-  - HM Awards: 
-  - Low Awards: 
-  - GAS, Informational, or QAs Awards:
+  - HM Awards: 25,000
+  - Low Awards: 2,500
 - Starts - Friday December 22, 2023 Noon UTC
 - Ends - Friday January 12, 2024 Noon UTC
 
-## Stats **THESE WILL BE PREPENDED TO THE SUBMITTED README BY THE CYFRIN TEAM**
+## Stats
 - nSLOC: 1414
 - Complexity Score: 1278
-- Dollars per Complexity:
-- Dollars per nSLOC:
+- Dollars per Complexity: $21.52
+- Dollars per nSLOC: $19.45
 
 ## About the Project
 
