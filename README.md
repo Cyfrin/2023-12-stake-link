@@ -27,7 +27,7 @@ stake.link is a first-of-its-kind liquid delegated staking platform delivering D
 
 
 - [Documentation](https://docs.stake.link) (out of scope/not relevant for this audit, provided for context)
-- [Website](https://www.stake.link)
+- [Website](https://stake.link)
 - [Twitter](https://www.twitter.com/stakedotlink)
 - [GitHub](https://github.com/stakedotlink)
 - [Governance Forum](https://talk.stake.link)
