@@ -1,10 +1,10 @@
 # stake.link
 
-<!-- <br/>
+<br/>
 <p align="center">
 <img src="https://res.cloudinary.com/droqoz7lg/image/upload/v1703097896/company/c7pwzpfhtzlt17gweveo.svg" width="500" alt="stake.link">
 </p>
-<br/> --> 
+<br/>
 
 
 ## Contest Details **THESE WILL BE PREPENDED TO THE SUBMITTED README BY THE CYFRIN TEAM**
