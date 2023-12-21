@@ -102,7 +102,6 @@ The rewards initiator is responsible for initiating reward updates/distribution 
 
 ## Scope (contracts)
 
-Commit: [36067e8e28cd2ddec4a00e0be5be6f50d8938910](https://github.com/stakedotlink/contracts/tree/36067e8e28cd2ddec4a00e0be5be6f50d8938910)
 
 ```js
 contracts/
