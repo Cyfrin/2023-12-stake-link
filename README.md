@@ -1,11 +1,6 @@
 # stake.link
 
-<br/>
-<p align="center">
-<img src="https://res.cloudinary.com/droqoz7lg/image/upload/v1703097896/company/c7pwzpfhtzlt17gweveo.svg" width="500" alt="stake.link">
-</p>
-<br/>
-
+[//]: # (contest-details-open)
 
 ## Contest Details
 
@@ -99,6 +94,9 @@ The rewards initiator is responsible for initiating reward updates/distribution 
 | Owner  | The owner has authorization to modify protocol parameters and perform upgrades for contracts that are upgradeable. The owner for all ownable contracts is a 5/7 multisig.                                                         |
 | Keeper | Keepers are Chainlink Automation bots that perform specific tasks either on a time-based schedule or when certain contract state conditions are met. They perform tasks for the protocol such as distributing rewards and initiating cross-chain updates. |
 
+[//]: # (contest-details-close)
+
+[//]: # (scope-open)
 
 ## Scope (contracts)
 
@@ -137,6 +135,9 @@ Tokens:
 - SDL `ERC677`
 - reSDL `ERC721`
 
+[//]: # (scope-close)
+
+[//]: # (getting-started-open)
 
 ## Setup
 
@@ -155,6 +156,10 @@ Run tests:
 yarn test
 ```
 
+[//]: # (getting-started-close)
+
+[//]: # (known-issues-open)
+
 ## Known Issues
 
 - Potential loss of rewards on secondary chain
@@ -172,3 +177,5 @@ yarn test
     - The owner has control over certain parameters and can upgrade certain contracts which can cause issues if set or performed incorrectly
 
 - Any additional issues detected by Aderyn outlined [here](https://github.com/Cyfrin/2023-12-stake-link/issues/1).
+
+[//]: # (known-issues-close)
