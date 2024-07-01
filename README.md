@@ -1,7 +1,5 @@
 # stake.link
 
-[//]: # (contest-details-open)
-
 ## Contest Details
 
 - Total Prize Pool: 
@@ -15,6 +13,8 @@
 - Complexity Score: 1278
 - Dollars per Complexity: $21.52
 - Dollars per nSLOC: $19.45
+
+[//]: # (contest-details-open)
 
 ## About the Project
 
